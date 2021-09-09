@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm Romain, junior Front-End developper
+
+- 📫 How to reach me: 
+  * [contact@romainblary.com](mailto:contact@romainblary.com)
+  * [www.romainblary.com](www.romainblary.com)
 
 <!--
 **Blarwitch5/Blarwitch5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
