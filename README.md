@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Romain, junior Front-End developper
+I'm Romain, web developper
 
 ## 📫 How to reach me: 
   * [contact@romainblary.com](mailto:contact@romainblary.com)
