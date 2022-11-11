@@ -2,7 +2,7 @@
 I'm Romain, web developper
 
 
-- 🔭 I’m currently working on building a static website using Jekyll and webpack (SASS & Babel)
+- 🔭 I’m currently working on building a static website using Astro 🚀
 - 🌱 I’m currently learning vue.js
 - 🤔 I’m looking for help with JS Frameworks
 
