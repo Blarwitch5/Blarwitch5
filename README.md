@@ -1,10 +1,11 @@
 ### Hi there 👋
-I'm Romain, web developper
+I'm Romain, web developper @ Team IT (Carouge, Geneva)
 
 
 - 🔭 I’m currently working on building a static website using Astro 🚀
-- 🌱 I’m currently learning vue.js
+- 🌱 I’m currently learning Astro, vue.js, typescript
 - 🤔 I’m looking for help with JS Frameworks
+- ⚡ Fun fact: Professionnal Water-Polo Player
 
 ## 📫 How to reach me: 
   * [contact@romainblary.com](mailto:contact@romainblary.com)
