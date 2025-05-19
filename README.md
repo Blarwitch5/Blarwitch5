@@ -2,11 +2,6 @@
 I'm Romain, web developper @ Team IT (Carouge, Geneva)
 
 
-- 🔭 I’m currently working on building a static website using Astro 🚀
-- 🌱 I’m currently learning Astro, React, NextJS, typescript
-- 🤔 I’m looking for help with JS Frameworks
-- ⚡ Fun fact: Professionnal Water-Polo Player
-
 ## 📫 How to reach me: 
   * [contact@romainblary.com](mailto:contact@romainblary.com)
   * [www.romainblary.com](https://romainblary.com) 
