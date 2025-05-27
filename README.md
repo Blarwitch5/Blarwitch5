@@ -3,8 +3,8 @@ I'm Romain, web developper @ Team IT (Carouge, Geneva)
 
 
 ## 📫 How to reach me: 
-  * [contact@romainblary.com](mailto:contact@romainblary.com)
-  * [www.romainblary.com](https://romainblary.com) 
+  * [romain.blary@ik.me](mailto:romain.blary@ik.me)
+  * [https://romainblary.vercel.app/](https://romainblary.vercel.app/)
 
 <!--
 **Blarwitch5/Blarwitch5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
